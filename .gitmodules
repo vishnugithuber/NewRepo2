@@ -1,0 +1,3 @@
+[submodule "NewRepo2"]
+	path = NewRepo2
+	url = https://github.com/vishnugithuber/NewRepo2
